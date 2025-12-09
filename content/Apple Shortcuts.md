@@ -13,3 +13,6 @@ Met behulp van Advanced URI kun je
 - Noties maken en wijzigen
 - In feite kun je alle commando's  van Obsidian van buiten de app aanroepen
 - Dat geldt dus óók voor de commando's aan andere Plugings zoals QuickAdd, Templater enz.  Je kunt op die manier dus een ketting aan reacies in gang zetten via bijvoorbeeld een QuickAdd "macro".
+
+
+![[Screenshot 2025-12-09 at 16.07.06.jpeg]]

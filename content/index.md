@@ -1,5 +1,5 @@
 ---
-title: Praktijktips
+title: Obsidian Praktijktips
 permalink: praktijktips
 created: 2025-12-01
 draft: false
