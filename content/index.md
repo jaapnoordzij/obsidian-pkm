@@ -1,11 +1,13 @@
 ---
-title: Welcome to Quartz
+title: My Obsidian Praktijktips
+permalink: homepage
+date: 2025-12-01
+draft: false
 ---
+Dit is mijn eerste pagina
+Landing page voor Quartz
+Ik wil eerst eens even zien of dit werkt met symbolic links naar mijn vault
+... en dit lijkt prima te werken
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-
-De bedoeling is om de relevante inhoud van mijn personal vault hierheen te copieren. IK hou de implementatie van Obsidian en van Quartz helemaal gescheiden. Dat betekent in de praktijk dat ik met een Obsidian command de notes die ik nodig heb voor de site kopieer naar mijn Quartz omgeving.
-
-[[Obsidian praktijktips]]
+Link to [[Obsidian praktijktips]]
 

@@ -3,6 +3,8 @@ title : Files in Obsidian
 date  : 2025-12-05
 parent: "[[Obsidian praktijktips]]" 
 ---
+[[Obsidian praktijktips]]
+
 Een placeholder voor tekst die nog moet komen.
 Ik moet iets schrijven over het gebruik van vaults mappen en files
 
