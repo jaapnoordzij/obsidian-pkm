@@ -15,10 +15,10 @@ Dit is een "Work in Progress". Vooralsnog breng ik nauwlijks structuur aan in de
 
 ## Structurering
 
-- [[Mindmap]]
+- [[Mindmaps]]
 - [[Digital garden]]
 - [[Map of Content]]
-- Concept teksten
+- [[Concept teksten]]
 - [[Gebruik van Tags, Folders en Metadata]]
 
 ## Definitieve structuur
