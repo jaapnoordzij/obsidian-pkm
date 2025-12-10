@@ -1,8 +1,8 @@
 ---
 title: Workflows
-permalink: workflows-in-obsidian
-draft: false
 created: 2025-12-04
+draft: false
+permalink: workflows-in-obsidian
 parent: "[[Obsidian praktijktips]]"
 ---
 Wanneer je informatie aan het verzamelen bent over een onderwerp neemt je kennisverzameling toe.

@@ -1,8 +1,8 @@
 ---
 title : Apple Shortcuts
-date  : 2025-12-04
-parent: "[[Obsidian praktijktips]]" 
+created : 2025-12-04
 draft: false
+parent: "[[Obsidian praktijktips]]" 
 ---
 Binnen de Apple wereld zijn Shortcuts een fraaie manier om [[Workflows in Obsidian]] te helpen automatiserwn op een relatief makkelijke manier. Apps van Apple zelf bieden allerlei functie die van "buiten" zijn aan te roepen en veel Apps die op een Apple apparaat werken exporteren zelf ook functies om aan te roepen. 
 

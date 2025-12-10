@@ -1,7 +1,8 @@
 ---
 title : Files in Obsidian
-date  : 2025-12-05
+created: 2025-12-05
 parent: "[[Obsidian praktijktips]]" 
+draft: false
 ---
 [[Obsidian praktijktips]]
 

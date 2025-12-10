@@ -1,8 +1,9 @@
 ---
 title : Research notes
-date  : 2025-12-04
+created : 2025-12-04
+draft: false
 parent: "[[Obsidian praktijktips]]" 
 ---
-Een kapstok van alles wat ik nog eens wat dieper moet onderzoeken
+Over de organisatie van aantekeningen, webclips, images, links, achtergrond artikelen, losse gedachten, concept teksten enz. 
 
 ![[backlinks.base]]

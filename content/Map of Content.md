@@ -1,6 +1,7 @@
 ---
 title: Map of Content
-date: 2025-12-04
+created: 2025-12-04
+draft: false
 parent: "[[Obsidian praktijktips]]"
 ---
 Een website of een boek hebben een vaste structuur van hoofdstukken en pagina's.  Dat is het eindresultaat van een lang traject van onderzoek en ontwikkeling. Wanneer je begint na te denken over die inhoud ligt dat allemaal nog niet vast. Je gedachten moeten nog vaste vorm krijgen.

@@ -1,11 +1,9 @@
 ---
 title: Obsidian praktijktips
+created: 2025-12-01
 draft: false
-date: 2025-12-01
 ---
-Vooralsnog breng ik nauwlijks structuur aan in de organisatie van de tekst - zie "[[Map of Content]]". Dat geeft me veel vrijheid om te spelen en te ordenen met de teksten.
-
-Een mogelijke structuur zou er in de toekomst als volgt kunnen uitzien:
+Dit is een "Work in Progress". Vooralsnog breng ik nauwlijks structuur aan in de organisatie van de tekst - zie "[[Map of Content]]". Dat geeft me veel vrijheid om te spelen en te ordenen met de teksten. Een mogelijke structuur zou er in de toekomst als volgt kunnen uitzien:
 
 ## Inleiding
 
@@ -15,36 +13,38 @@ Een mogelijke structuur zou er in de toekomst als volgt kunnen uitzien:
 	- Note taking with Obsidian
 	- Alternatieven
 
-## Structurering van kennis
+## Structurering
 
-- Map of Content
+- [[Mindmap]]
+- [[Digital garden]]
+- [[Map of Content]]
 - Concept teksten
-- Kleine teksten
 - [[Gebruik van Tags, Folders en Metadata]]
 
 ## Definitieve structuur
 
 Hoe kun je deze benadering van kennis management gebruik voor onderwerpen als
 
-- Maak een website - [[Uitzoeken - Hoe genereer ik een statische website vanuit Obsidian]]
-- Schrijf een boek - [[Uitzoeken - hoe schrijf je een boek of scriptie in MS-Word in Obsidan]]
+- Maak een website - [[Hoe genereer je een website vanuit Obsidian]]
+- Schrijf een boek - [[Hoe schrijf je een boek of scriptie in Obsidan]]
 
 ## Research notes
 
-- Losse aantekeningen -  [[Research Notes]]
+- [[Research Notes]]
+- Losse aantekeningen 
 - WebClips
 
 ## Techniek
 
-- Workflows.  Standaard patronen om mee te werken.
+- [[Workflows in Obsidian]]  Standaard patronen om mee te werken.
 - Plugins. De meest interessante in Obisidian.
 	- Dataview
 	- Tasks
 	- Avanced URI
 	- QuickAdd
 	- Templater
-- Shortcuts van Apple - [[Apple Shortcuts]]
-- Vault en files als opslag - [[Files in Obsidian]]
+- [[Apple Shortcuts]]
+- [[Files in Obsidian]] over Vaults en files
 - [[YAML Frontmatter]]
 
 Alle concept-teksten die nog niet zijn opgenomen in deze structuur staan in onderstaande tabel met backlinks. De "kapstok" dus:
