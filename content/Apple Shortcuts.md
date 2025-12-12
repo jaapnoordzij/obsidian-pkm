@@ -14,8 +14,10 @@ Met behulp van Advanced URI kun je
 - In feite kun je alle commando's  van Obsidian van buiten de app aanroepen
 - Dat geldt dus óók voor de commando's aan andere Plugings zoals QuickAdd, Templater enz.  Je kunt op die manier dus een ketting aan reacies in gang zetten via bijvoorbeeld een QuickAdd "macro".
 
-Example shortcuts
+Example shortcuts:
 
-- Utility shorcuts [[Utility Set current Note]] and [[Utility Paste]]
+- Utility shorcuts
+	- [[Utility Set current Note|Set Current Note]]
+	- [[Utility Paste]]
 - [[Shortcut Insert Photo in Current Note]]
 - [[Shortcut Paste text from selected Images]]
