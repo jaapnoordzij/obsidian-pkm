@@ -17,5 +17,5 @@ Met behulp van Advanced URI kun je
 Example shortcuts
 
 - Utility shorcuts [[Utility Set current Note]] and [[Utility Paste]]
-- [[Utility Insert Photo in Current Note]]
+- [[Shortcut Insert Photo in Current Note]]
 - [[Shortcut Paste text from selected Images]]
