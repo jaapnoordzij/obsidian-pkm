@@ -25,8 +25,8 @@ Dit is een "Work in Progress" en deze pagina fungeert als een [[Map of Content]]
 
 Hoe kun je deze benadering van kennis management gebruik voor onderwerpen als
 
-- Maak een website - [[Hoe genereer je een website vanuit Obsidian]]
-- Schrijf een boek - [[Hoe schrijf je een boek of scriptie in Obsidan]]
+- Maak een website - [[Genereer een website]]
+- Schrijf een boek - [[Genereer een boek of scriptie]]
 
 ## Research notes
 
