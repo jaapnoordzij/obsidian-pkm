@@ -19,5 +19,5 @@ Shortcuts die ik veel gebruik:
 - Utility shorcuts gebruik ik voor veel voorkomende acties die ik door andere Shortcuts laat aanroepen.
 	- [[Utility Set current Note|Set Current Note]]
 	- [[Utility Paste]]
-- [[Shortcut Insert Photo in Current Note]]
-- [[Shortcut Paste text from selected Images]]
+- [[Insert Photo in Current Note]]
+- [[Paste Text from selected Images]]
