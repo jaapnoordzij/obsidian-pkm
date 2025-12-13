@@ -17,7 +17,7 @@ Met behulp van Advanced URI kun je bijvoorbeeld
 Shortcuts die ik veel gebruik:
 
 - Utility shorcuts gebruik ik voor veel voorkomende acties die ik door andere Shortcuts laat aanroepen.
-	- [[Utility Set current Note|Set Current Note]]
+	- [[Get current Note|Set Current Note]]
 	- [[Utility Paste]]
 - [[Insert Photo in Current Note]]
 - [[Paste Text from selected Images]]

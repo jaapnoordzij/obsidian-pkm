@@ -3,15 +3,16 @@ title: Obsidian praktijktips
 created: 2025-12-01
 draft: false
 ---
-Dit is een "Work in Progress" en deze pagina fungeert als een [[Map of Content]] . Een mogelijke structuur zou er in de toekomst als volgt kunnen uitzien:
+Dit is een "Work in Progress" en deze pagina fungeert als een [[Map of Content]] . Een mogelijke structuur zou er als volgt kunnen uitzien:
 
 ## Inleiding
 
-- [[Opzet van de website of het boek]]
+- [[Waar gaat dit over]]
 - Wat is PKM
 - Obsidian
 	- Note taking with Obsidian
 	- Alternatieven
+	- [[De geschiedenis van mijn teksten]]
 
 ## Structurering
 
@@ -25,12 +26,12 @@ Dit is een "Work in Progress" en deze pagina fungeert als een [[Map of Content]]
 
 Hoe kun je deze benadering van kennis management gebruik voor onderwerpen als
 
-- Maak een website - [[Genereer een website]]
-- Schrijf een boek - [[Genereer een boek of scriptie]]
+- [[Genereer een website]] vanuit Obsidian notities
+- [[Genereer een boek of scriptie]] vanuit Obsidian
 
 ## Research notes
 
-- [[Research Notes]]
+- [[PKM Research Notes]]
 - Losse aantekeningen 
 - WebClips
 
@@ -43,8 +44,8 @@ Hoe kun je deze benadering van kennis management gebruik voor onderwerpen als
 	- Avanced URI
 	- QuickAdd
 	- Templater
-- [[Apple Shortcuts]]
-- [[Files in Obsidian]] over Vaults en files
+- Stroomlijnen buiten Obsidian met [[Apple Shortcuts]]
+- Vaults en files - hoe ga ik om met [[Files in Obsidian]]
 - [[YAML Frontmatter]]
 
 Alle concept-teksten die nog niet zijn opgenomen in deze structuur staan in onderstaande tabel met backlinks. De "kapstok" dus:
