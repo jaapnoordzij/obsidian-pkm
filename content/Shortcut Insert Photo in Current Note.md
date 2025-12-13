@@ -9,4 +9,4 @@ parent: "[[Apple Shortcuts]]"
 New page stub text
 
 
-![[screenshot-obsidian-insert-photo.jpeg]]
+![[PKM Insert photo in current note.jpeg]]
