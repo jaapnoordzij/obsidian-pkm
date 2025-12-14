@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Apple Shortcuts","created":"2025-12-04","modified":"2025-12-14T18:11:53.878+01:00","cssclasses":""}
+{"publish":true,"title":"Apple Shortcuts","created":"2025-12-04","modified":"2025-12-14T19:23:45.960+01:00","cssclasses":""}
 ---
 
 Apple Shortcuts kun je gebruiken om [[Workflows in Obsidian]] te realiseren. Apps van Apple bieden allerlei functie die van "buiten" zijn aan te roepen en veel Apps die op een Apple apparaat werken exporteren zelf ook functies om aan te roepen. 
@@ -16,6 +16,6 @@ Shortcuts die ik veel gebruik:
 
 - Utility shorcuts gebruik ik voor veel voorkomende acties die ik door andere Shortcuts laat aanroepen.
 	- [[Get current Note\|Set Current Note]]
-	- [[Utility Paste]]
+	- [[Paste clipboard to note]]
 - [[Insert Photo in Current Note]]
 - [[Paste Text from selected Images]]
