@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Personal Know Management",
+    pageTitle: "Personal Knowledge Management",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
