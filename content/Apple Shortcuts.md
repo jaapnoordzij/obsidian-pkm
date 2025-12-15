@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Apple Shortcuts","created":"2025-12-04","modified":"2025-12-14T22:32:05.589+01:00","cssclasses":""}
+{"publish":true,"title":"Apple Shortcuts","created":"2025-12-04","modified":"2025-12-15T08:52:13.271+01:00","cssclasses":""}
 ---
 
 Apple Shortcuts kun je gebruiken om [[Workflows in Obsidian]] te realiseren. Apps van Apple bieden allerlei functie die van "buiten" zijn aan te roepen en veel Apps die op een Apple apparaat werken exporteren zelf ook functies om aan te roepen. 

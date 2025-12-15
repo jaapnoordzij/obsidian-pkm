@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Concept teksten","draft":true,"created":"2025-12-10","modified":"2025-12-14T18:55:25.181+01:00","cssclasses":""}
+{"publish":true,"title":"Concept teksten","draft":true,"created":"2025-12-10","modified":"2025-12-15T08:52:13.283+01:00","cssclasses":""}
 ---
 
 Over veel onderwerpen wil ik graag iets schrijven en er spelen flarden informatie door mijn hoofd maar het is allemaal nog niet zo geschikt om te publiceren op de website. Dus onderstaande lijst is er vooral om regelmatig naar terug te keren en nog eens te herkauwen.

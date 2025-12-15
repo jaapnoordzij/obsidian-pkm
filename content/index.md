@@ -1,16 +1,56 @@
 ---
-{"publish":true,"title":"Obsidian in de praktijk","created":"2025-12-01","modified":"2025-12-14T18:11:25.525+01:00","cssclasses":""}
+{"publish":true,"title":"Obsidian praktijktips","created":"2025-12-01","modified":"2025-12-15T08:52:55.451+01:00","cssclasses":""}
 ---
 
 Deze site is een "Work in Progress" en gaat vooral over twee zaken:
-
 1. Hoe organiseer ik mijn informatie bij het opstarten van een nieuw project.
 2. Hoe zorg ik er voor dat ik zaken terug kan vinden in de meer dan 10.000 notities die ik in de loop der jaren verzameld heb. 
 
-Het is niet ongebruikelijk om bij een nieuw project in korte tijd honderden notities te maken met gedachten, concept teksten, aantekeningen, achtergrond informatie, webclips enz.  Hoe zorg je ervoor dat dit allemaal overzichtelijk blijft en dat er een eindproduct uit komt ?
+Een mogelijke structuur zou er als volgt kunnen uitzien:
 
-In de loop der jaren volgen talloze van dergelijk projecten. Hoe zorg je er voor dat de informatie die je in de loop der jaren hebt opgebouwd, je Personal Knowledge, overzichtelijk blijft en terug is te vinden.
+## Inleiding
 
-Sinds een aantal jaren gebruik ik [Obsidian](https://obsidian.md) voor mijn notities. [[Obsidian praktijktips]] beschrijft de methode en de tools die ik gebruik.
+- [[Waar gaat dit over]]
+- Wat is PKM
+- Obsidian
+	- Note taking with Obsidian
+	- Alternatieven
+	- [[De geschiedenis van mijn teksten]]
 
+## Structurering
 
+- [[Mindmaps]]
+- [[Digital garden]]
+- [[Map of Content]]
+- [[Concept teksten]]
+- [[Gebruik van Tags, Folders en Metadata]]
+
+## Definitieve structuur
+
+Hoe kun je deze benadering van kennis management gebruik voor onderwerpen als
+
+- [[Genereer een website]] vanuit Obsidian notities
+- [[Genereer een boek of scriptie]] vanuit Obsidian
+
+## Research notes
+
+- [[PKM Research Notes]]
+- Losse aantekeningen 
+- WebClips
+
+## Techniek
+
+- [[Workflows in Obsidian]]  Standaard patronen om mee te werken.
+- Plugins. De meest interessante in Obisidian.
+	- Dataview
+	- Tasks
+	- Avanced URI
+	- QuickAdd
+	- Templater
+- Stroomlijnen buiten Obsidian met [[Apple Shortcuts]]
+- [[Files and Vaults]]
+- [[YAML Frontmatter]]
+
+Alle concept-teksten die nog niet zijn opgenomen in deze structuur staan in onderstaande tabel met backlinks. De "kapstok" dus:
+
+![[backlinks.base]]
