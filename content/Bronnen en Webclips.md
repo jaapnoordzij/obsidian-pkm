@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Bronnen en Webclips","created":"2025-12-15","modified":"2025-12-15T12:09:57.313+01:00","cssclasses":""}
+{"publish":true,"title":"Bronnen en Webclips","created":"2025-12-15","modified":"2025-12-15T12:31:13.998+01:00","cssclasses":""}
 ---
 
 [[PKM Research Notes]]
@@ -22,7 +22,7 @@ Ik haal veel teksten uit papieren bronnen. Om dat te doen maak ik foto's van de 
 
 Ik gebruik de volgende template:
 
-```
+```yaml
 ---
 title  : <% tp.file.title %>
 date   : <% tp.file.creation_date("YYYY-MM-DD") %>
