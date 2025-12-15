@@ -1,5 +1,5 @@
 ---
-{"publish":true,"permalink":"workflows-in-obsidian","title":"Workflows","created":"2025-12-04","modified":"2025-12-14T18:57:20.073+01:00","cssclasses":""}
+{"publish":true,"permalink":"workflows-in-obsidian","title":"Workflows","created":"2025-12-04","modified":"2025-12-15T08:52:13.339+01:00","cssclasses":""}
 ---
 
 Wanneer je informatie aan het verzamelen bent over een onderwerp neemt je kennisverzameling toe.

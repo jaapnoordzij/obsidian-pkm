@@ -1,8 +1,8 @@
 ---
-{"publish":true,"title":"Files in Obsidian","created":"2025-12-05","modified":"2025-12-14T18:04:25.521+01:00","cssclasses":""}
+{"publish":true,"title":"Files in Obsidian","created":"2025-12-05","modified":"2025-12-15T08:52:13.251+01:00","cssclasses":""}
 ---
 
-[[Obsidian praktijktips]]
+[[index]]
 
 Hoe ga ik om met Vaults en Files in Obsidian
 
