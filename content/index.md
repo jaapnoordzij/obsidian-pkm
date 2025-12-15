@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Obsidian praktijktips","created":"2025-12-01","modified":"2025-12-15T08:52:55.451+01:00","cssclasses":""}
+{"publish":true,"title":"Obsidian praktijktips","created":"2025-12-01","modified":"2025-12-15T11:39:58.112+01:00","cssclasses":""}
 ---
 
 Deze site is een "Work in Progress" en gaat vooral over twee zaken:
@@ -32,11 +32,11 @@ Hoe kun je deze benadering van kennis management gebruik voor onderwerpen als
 - [[Genereer een website]] vanuit Obsidian notities
 - [[Genereer een boek of scriptie]] vanuit Obsidian
 
-## Research notes
+## Research
 
 - [[PKM Research Notes]]
-- Losse aantekeningen 
-- WebClips
+- [[Concept teksten]] 
+- [[Bronnen en Webclips]]
 
 ## Techniek
 
