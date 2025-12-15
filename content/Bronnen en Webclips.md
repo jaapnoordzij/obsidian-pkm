@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Bronnen en Webclips","created":"2025-12-15","modified":"2025-12-15T11:40:02.775+01:00","cssclasses":""}
+{"publish":true,"title":"Bronnen en Webclips","created":"2025-12-15","modified":"2025-12-15T12:09:57.313+01:00","cssclasses":""}
 ---
 
 [[PKM Research Notes]]
@@ -28,6 +28,7 @@ title  : <% tp.file.title %>
 date   : <% tp.file.creation_date("YYYY-MM-DD") %>
 source : "[[name-of-the-source]]"
 author : "[[name-of-the-author]]"
+tags   : 
 summary: "My summary"
 ---
 [[link-to-inbox]]
@@ -38,4 +39,7 @@ My own notes and links added
 ```
 
 De template gaat er dus van uit dat ik voor elke Source en Author ook een verzamel notitie heb.  Daarin kun je informatie vinden en toon ik altijd aan het einde de backlinks via Bases of Dataview. 
+
+Zie bijvoorbeeld [[Tolstoj\|Lev Tolstoj]] als Author note
+
 
