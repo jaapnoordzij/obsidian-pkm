@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"YAML Frontmatter","created":"2025-12-02","modified":"2025-12-15T08:52:13.345+01:00","cssclasses":""}
+{"publish":true,"aliases":"YAML frontmatter frontmatter","title":"YAML Frontmatter","created":"2025-12-02","modified":"2025-12-15T18:43:42.737+01:00","cssclasses":""}
 ---
 
 Yet Another Meta Language (YAML) wordt vaak gebruikt om gegevens over een notitie (metadata) mee te geven in de tekst.  Alle Apps die met platte tekst kunnen werken negeren deze informatie bij opmaak en afdrukken.
