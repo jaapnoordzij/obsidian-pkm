@@ -1,8 +1,8 @@
 ---
-{"publish":true,"aliases":"Obsidian praktijktips Obsidian PKM","title":"Index","created":"2025-12-01","modified":"2025-12-15T16:57:51.457+01:00","cssclasses":""}
+{"publish":true,"aliases":"Obsidian praktijktips Obsidian PKM","title":"Index","created":"2025-12-01","modified":"2025-12-15T22:31:20.299+01:00","cssclasses":""}
 ---
 
-Deze site is een "Work in Progress" en gaat vooral over twee zaken:
+Deze site is een "Digital Garden" en gaat vooral over twee zaken:
 1. Hoe organiseer ik mijn informatie bij het opstarten van een nieuw project.
 2. Hoe zorg ik er voor dat ik zaken terug kan vinden in de meer dan 10.000 notities die ik in de loop der jaren verzameld heb. 
 
@@ -13,9 +13,9 @@ Een mogelijke structuur zou er als volgt kunnen uitzien:
 - [[Waar gaat dit over]]
 - Wat is PKM
 - Obsidian
+	- [[De geschiedenis van mijn teksten]]
 	- Note taking with Obsidian
 	- Alternatieven
-	- [[De geschiedenis van mijn teksten]]
 
 ## Structuur aanbrengen
 
