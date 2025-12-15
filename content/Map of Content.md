@@ -1,12 +1,12 @@
 ---
-{"publish":true,"title":"Map of Content","created":"2025-12-04","modified":"2025-12-15T08:52:13.303+01:00","cssclasses":""}
+{"publish":true,"title":"Map of Content","created":"2025-12-04","modified":"2025-12-15T22:00:37.641+01:00","cssclasses":""}
 ---
 
 Een website of een boek hebben een vaste structuur van hoofdstukken en pagina's.  Dat is het eindresultaat van een lang traject van onderzoek en ontwikkeling. Wanneer je begint na te denken over die inhoud ligt dat allemaal nog niet vast. Je gedachten moeten nog vaste vorm krijgen.
 
 Het proces van nadenken en research heeft meestal een chaotisch verloop :
 
-- Je maakt aantekeingen over mogelijke opties en vormen
+- Je maakt aantekeningen over mogelijke opties en vormen
 - Je weet misschien een hoofdstukindeling maar je weet ook dat die zal veranderen
 - Je schrijft concept teksten voor paragrafen
 - Je leest iets en je wilt je gedachten erover noteren zonder dat je weet waar dit thuishoort
@@ -20,10 +20,13 @@ Een Map of Content of MOC biedt je de mogelijkheid om je notities te ordenen. He
 
 De essentie hierbij is om zoveel mogelijk losse notities te maken en concept teksten schrijven en je geen zorgen maken over de structuur, volgorde, overlappingen, witte vlekken, dat komt allemaal later wel.
 
-In eerste instantie laat ik alle notities met Wikilinks verwijzen naar een eerste "kapstok", een pagina waar je via "backlinks" kunt zien welke notities er zijn.  Zoals bijvoorbeeld de pagina [[index]]. 
+In eerste instantie laat ik alle notities met Wikilinks verwijzen naar een eerste "kapstok", een pagina waar je via "backlinks" kunt zien welke notities er zijn.  Zoals bijvoorbeeld de pagina [[index\|Obsidian PKM]].
 
-Naarmate het aantal notites groeit krijg je meer kapstok / moc pagina's waarnaar je gaat verwijzen. Bijvoorbeeld concept teksten die je aan een concept "hoofdstuk x" pagina "hangt", resarch notes die je ook naar dat hoofdstuk laat verwijzen of misschien juist naar een "research over X" pagina.  De methode met Wikilinks is hiervoor heel goed geschikt omdat je op die manier een notitie "onder" meerder andere notities kunt laten vallen door naar elk daarvan te verwijzen.
+Naarmate het aantal notities groeit krijg je meer kapstok / MOC pagina's waarnaar je gaat verwijzen. Bijvoorbeeld concept teksten die je aan een concept "hoofdstuk x" pagina "hangt", [[PKM Research Notes\|Research notes]] die je ook naar dat hoofdstuk laat verwijzen of misschien juist naar een "research over X" pagina.  De methode met Wikilinks is hiervoor heel goed geschikt omdat je op die manier een notitie "onder" meerder andere notities kunt laten vallen door naar elk daarvan te verwijzen.
 
-Een MOC is voortdurend in ontwikkeling. Je blijft reorganiseren en het grote voordeel hiervan is dat je je aantekenigen telkens weer onder ogen krijgt en de verbanden en stuctuur als het ware organisch evolueren.
+Een MOC is voortdurend in ontwikkeling. Je blijft reorganiseren en het grote voordeel hiervan is dat je je aantekeningen telkens weer onder ogen krijgt en de verbanden en stuctuur als het ware organisch evolueren.
 
-Ik probeer in de notities zelf geen parent / child relatie aan te brengen want daarmee zou  ik een onderlinge structuur vastleggen en dat is in dit stadium niet de bedoeling. Structuur breng ik pas aan in de tekst waar ik dan rechtstreeks ga verwijzen naar hoodstukken en paragrafen (zoals je ziet in het concept van [[index]]])
+Ik probeer in de notities zelf geen parent / child relatie aan te brengen want daarmee zou  ik een onderlinge structuur vastleggen en dat is in dit stadium niet de bedoeling. Structuur breng ik pas aan in de tekst waar ik dan rechtstreeks ga verwijzen naar hoofdstukken en paragrafen (zoals je ziet in het concept van [[PKM Research Notes\|Research notes]]])
+
+> [!NOTE] Backlinks script
+> I prefer to use my own [[backlinks.base]] or Dataview Script because it shows only the backlinks to the current node that I do not reference in the text. This prevents clutter and emphasises growing structural integrity.
