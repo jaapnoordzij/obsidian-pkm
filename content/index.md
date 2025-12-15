@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Obsidian praktijktips","created":"2025-12-01","modified":"2025-12-15T11:39:58.112+01:00","cssclasses":""}
+{"publish":true,"aliases":"Obsidian praktijktips Obsidian PKM","title":"Index","created":"2025-12-01","modified":"2025-12-15T16:57:51.457+01:00","cssclasses":""}
 ---
 
 Deze site is een "Work in Progress" en gaat vooral over twee zaken:
@@ -17,13 +17,13 @@ Een mogelijke structuur zou er als volgt kunnen uitzien:
 	- Alternatieven
 	- [[De geschiedenis van mijn teksten]]
 
-## Structurering
+## Structuur aanbrengen
 
+- [[Inleiding Structuur]]
 - [[Mindmaps]]
 - [[Digital garden]]
 - [[Map of Content]]
-- [[Concept teksten]]
-- [[Gebruik van Tags, Folders en Metadata]]
+- [[Tags, Folders en Metadata]]
 
 ## Definitieve structuur
 
