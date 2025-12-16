@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Obsidian praktijktips Obsidian PKM","title":"Index","created":"2025-12-01","modified":"2025-12-16T18:57:48.117+01:00","cssclasses":""}
+{"publish":true,"aliases":"Obsidian praktijktips Obsidian PKM","title":"Index","created":"2025-12-01","modified":"2025-12-16T22:24:14.379+01:00","cssclasses":""}
 ---
 
 Deze site is een [[Digital garden]] en gaat vooral over twee zaken:
@@ -40,7 +40,7 @@ Hoe kun je deze benadering van kennis management gebruik voor onderwerpen als
 ## Techniek
 
 - [[Workflow in Obsidian]]  Standaard patronen om mee te werken.
-- Meest interessante community plugins in Obsidian.
+- [[Meest interessante community plugins]] in Obsidian.
 	- Dataview
 	- Tasks
 	- Advanced URI
