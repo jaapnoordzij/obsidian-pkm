@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Tags, Folders en Metadata","created":"2023-01-23","modified":"2025-12-15T18:57:10.791+01:00","tags":[null],"cssclasses":""}
+{"publish":true,"title":"Tags, Folders en Metadata","created":"2023-01-23","modified":"2025-12-16T18:43:31.348+01:00","tags":[null],"cssclasses":""}
 ---
 
 parent: [[index]]
@@ -32,7 +32,7 @@ Folders hebben ook nogal wat nadelen:
 
 ## Hash-tags
 
-Het gebruik van Hash-tags is vrij algemeen geaccepteerd in platte tekst. Maar het is niet zo dat het helemáál gestandaardiseerd is. De werking van tags verschilt nogal per app. In Bear mag bijna alles, Obsidian tags mogen niet bestaan uit een nummer zoals 2023 en mogen geen spaties bevatten.
+Het gebruik van Hash-tags is vrij algemeen geaccepteerd in platte tekst. Maar het is niet zo dat het helemáál gestandaardiseerd is. De werking van tags verschilt nogal per app. In Bear mag bijna alles, Obsidian tags mogen niet bestaan uit een nummer zoals 2023 en mogen geen spaties bevatten, erg handig als een paar duizend dagboek aantekeningen moet overzetten die geneste tags met jaar/maand/dag gebruiken om als organisatievorm.
 
 Omdat hash-tags worden bijgehouden op het hoogste niveau van de app is het lastig om een fijnmazige structuur aan te brengen in de kennis. Dat kan wel maar dan krijg je al snel een enorme hoeveelheid tags.
 

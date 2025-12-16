@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"Obsidian praktijktips Obsidian PKM","title":"Index","created":"2025-12-01","modified":"2025-12-16T16:17:35.257+01:00","cssclasses":""}
+{"publish":true,"aliases":"Obsidian praktijktips Obsidian PKM","title":"Index","created":"2025-12-01","modified":"2025-12-16T18:57:48.117+01:00","cssclasses":""}
 ---
 
 Deze site is een [[Digital garden]] en gaat vooral over twee zaken:
@@ -13,8 +13,8 @@ Een mogelijke structuur zou er als volgt kunnen uitzien:
 - [[Wat is PKM\|Wat is Personal Knowledge Management]]
 - Hoe kom ik bij Obsidian uit ?
 	- [[De geschiedenis van mijn teksten]]
-	- Alternatieven
-	- Note taking with Obsidian
+	- [[Alternatieven voor Obsidian]]
+	- [[Aantekeningen maken in Obsidian]]
 
 ## Structuur aanbrengen
 
