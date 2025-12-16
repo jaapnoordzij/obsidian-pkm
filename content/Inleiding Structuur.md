@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Inleiding Structuur","created":"2025-12-15","modified":"2025-12-15T21:50:36.660+01:00","cssclasses":""}
+{"publish":true,"aliases":"Structuur","title":"Inleiding Structuur","created":"2025-12-15","modified":"2025-12-16T15:52:09.670+01:00","cssclasses":""}
 ---
 
 Het verzamelen van een enorme hoeveelheid informatie is geen probleem. De kunst is om die informatie zo te structureren dat je er wat aan hebt. Dat betekent voor mij :

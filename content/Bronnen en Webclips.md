@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Bronnen en Webclips","created":"2025-12-15","modified":"2025-12-15T12:31:13.998+01:00","cssclasses":""}
+{"publish":true,"title":"Bronnen en Webclips","created":"2025-12-15","modified":"2025-12-16T15:40:14.505+01:00","cssclasses":""}
 ---
 
 [[PKM Research Notes]]
