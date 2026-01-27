@@ -11,7 +11,7 @@ Deze site is een [[Digital garden]] en gaat vooral over twee onderwerpen:
 
 ## Inleiding
 
-[[Hoe organiseer ik mijn kennis]] die ik in de loop der jaren verzameld heb.  [[De geschiedenis van mijn teksten]] vertelt iets over de groei in de loop der jaren tot ik bij [Obsidian](http://obsidian.md) uitkwam.  Natuurlijk zijn er goede [[Alternatieven voor Obsidian]]. Obsidian is makkelijk in het gebruik je kunt er erg veel mee doen. Waar moet je rekening mee houden bij het [[Aantekeningen maken in Obsidian]].
+[[Hoe organiseer ik mijn kennis]] die ik in de loop der jaren verzameld heb.  [[De geschiedenis van mijn teksten]] vertelt iets over de groei in de loop der jaren tot ik bij [Obsidian](http://obsidian.md) uitkwam.  Natuurlijk zijn er goede [[Alternatieven voor Obsidian]]. Waar moet je rekening mee houden bij het [[Aantekeningen maken in Obsidian]] ? 
 
 ## Structuur aanbrengen
 
