@@ -1,10 +1,14 @@
 ---
-{"publish":true,"aliases":"Obsidian praktijktips Obsidian PKM","title":"Index","created":"2025-12-01","modified":"2025-12-16T22:24:14.379+01:00","cssclasses":""}
+publish: true
+aliases: Obsidian praktijktips Obsidian PKM
+title: index
+created: 2025-12-01
+cssclasses: ""
 ---
 
-Deze site is een [[Digital garden]] en gaat vooral over twee zaken:
+Deze site is een [[Digital garden]] en gaat vooral over twee onderwerpen:
 1. Hoe organiseer ik mijn informatie bij het opstarten van een nieuw project.
-2. Hoe zorg ik er voor dat ik zaken terug kan vinden in de meer dan 10.000 notities die ik in de loop der jaren verzameld heb. 
+2. Hoe zorg ik er voor dat ik zaken terug kan vinden in de meer dan 10.000 notities die ik in de loop der jaren verzameld heb.
 
 Een mogelijke structuur zou er als volgt kunnen uitzien:
 
@@ -34,7 +38,7 @@ Hoe kun je deze benadering van kennis management gebruik voor onderwerpen als
 ## Research
 
 - [[PKM Research Notes]]
-- [[Concept teksten]] 
+- [[Concept teksten]]
 - [[Bronnen en Webclips]]
 
 ## Techniek
@@ -52,4 +56,4 @@ Hoe kun je deze benadering van kennis management gebruik voor onderwerpen als
 
 Alle concept-teksten die nog niet zijn opgenomen in deze structuur staan in onderstaande tabel met backlinks. De "kapstok" dus:
 
-![[backlinks.base]]
+![[backlinks.base#Children]]
