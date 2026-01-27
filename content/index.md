@@ -1,6 +1,5 @@
 ---
 publish: true
-aliases: Obsidian praktijktips Obsidian PKM
 title: index
 created: 2025-12-01
 cssclasses: ""
@@ -9,8 +8,6 @@ cssclasses: ""
 Deze site is een [[Digital garden]] en gaat vooral over twee onderwerpen:
 1. Hoe organiseer ik mijn informatie bij het opstarten van een nieuw project.
 2. Hoe zorg ik er voor dat ik zaken terug kan vinden in de meer dan 10.000 notities die ik in de loop der jaren verzameld heb.
-
-Een mogelijke structuur zou er als volgt kunnen uitzien:
 
 ## Inleiding
 
